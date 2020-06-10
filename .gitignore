@@ -2,4 +2,3 @@
 .terraformrc
 *.pem
 packer/vars.json
-yomomma
